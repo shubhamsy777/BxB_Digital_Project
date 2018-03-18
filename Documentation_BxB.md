@@ -8,6 +8,12 @@ Author: Shubham Singh Yadav
 
 Creating a model that can correctly forecast the demand for the pallets issued by CHEP for the months of July to December of 2017. 
 
+## <u>Tools Used:</u>
+
+Language used: Python 3.4 
+Comupting Environment used: Jupyter Notebook
+For references and doubt: https://stackoverflow.com/ and https://pandas.pydata.org/
+
 ## <u>Data description:</u>
 
 ( Data collection duration: Monthly Data for 10 Years [July,2007- June,2017] )
@@ -38,6 +44,6 @@ The evaluation metric for the project is MAPE (Mean Absolute Percentage Error). 
 
 ## <u>Final Predictions and Outputs:</u> 
 
-The number of Issues for the months July, 2017 to December, 2017 have been provided in the file Submission.csv in the same repository. 
+The number of Issues for the months July, 2017 to December, 2017 have been provided in the file Submission.csv in the same repository. *The final result*:  
 
 ![forecast_plotted](https://user-images.githubusercontent.com/15797312/37564914-6f07c9ea-2ac5-11e8-8ec1-2b80f4fba0d6.png)
