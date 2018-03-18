@@ -7,6 +7,10 @@ Author: Shubham Singh Yadav
 ## <u>Aim for the Project:</u>
 
 Creating a model that can correctly forecast the demand for the pallets issued by CHEP for the months of July to December of 2017. 
+The final result: 
+
+![forecast_plotted](https://user-images.githubusercontent.com/15797312/37564914-6f07c9ea-2ac5-11e8-8ec1-2b80f4fba0d6.png)
+
 
 ## <u>Data description:</u>
 
