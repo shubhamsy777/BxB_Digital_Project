@@ -40,6 +40,4 @@ The evaluation metric for the project is MAPE (Mean Absolute Percentage Error). 
 
 The number of Issues for the months July, 2017 to December, 2017 have been provided in the file Test_data.csv in the same repository. 
 
-
-
-![orecast_plotte](C:\Users\Bada Rock\forecast_plotted.png)
+![forecast_plotted](https://user-images.githubusercontent.com/15797312/37564914-6f07c9ea-2ac5-11e8-8ec1-2b80f4fba0d6.png)
