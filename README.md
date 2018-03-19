@@ -9,6 +9,10 @@ Author: Shubham Singh Yadav
 Creating a model that can correctly forecast the demand for the pallets issued by CHEP for the months of July to December of 2017. 
 The final result: 
 
+Red: Number of issues for every month from July,2007 to June 2017. 
+
+Blue: Number of issues for the months July, 2017 to December, 2017. 
+
 ![forecast_plotted](https://user-images.githubusercontent.com/15797312/37564914-6f07c9ea-2ac5-11e8-8ec1-2b80f4fba0d6.png)
 
 
@@ -49,5 +53,11 @@ The evaluation metric for the project is MAPE (Mean Absolute Percentage Error). 
 1. Both the number of transfers and the number of issued pallets from CHEP were on a steady decrease from the year 2007 to 2009. The reason for this decline could be the Global Financial Crisis of 2008-2009, which hit almost all the sectors that CHEP's clients are based in such as Aerospace, Automotive, Consumer goods etc.
 
 ## <u>Final Predictions and Outputs:</u>
+
+##### Predictions Model:
+
+After trying out multiple models (such as LinearSVR, Non-linear SVR, Linear Regression models), and checking all of their MAPE scores, the choice of prediction model **for the next six months** is the Linear Regression model which got an average MAPE of 2.0%. 
+
+##### Forecast for number of Issues:
 
 The number of Issues for the months July, 2017 to December, 2017 have been provided in the file Submission.csv in the same repository. 
