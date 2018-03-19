@@ -44,7 +44,13 @@ The evaluation metric for the project is MAPE (Mean Absolute Percentage Error). 
 
 1. Both the number of transfers and the number of issued pallets from CHEP were on a steady decrease from the year 2007 to 2009. The reason for this decline could be the Global Financial Crisis of 2008-2009, which hit almost all the sectors that CHEP's clients are based in such as Aerospace, Automotive, Consumer goods etc.
 
-## <u>Final Predictions and Outputs:</u> 
+## <u>Final Forecasts and Outputs:</u> 
+
+##### Predictions Model: 
+
+After trying out multiple models (such as LinearSVR, Non-linear SVR, Linear Regression models), and checking all of their MAPE scores, the choice of prediction model **for the next six months** is the Linear Regression model which got an average MAPE of 2.0%. 
+
+##### Forecast for number of Issues: 
 
 The number of Issues for the months July, 2017 to December, 2017 have been provided in the file Submission.csv in the same repository. *The final result*:  
 
